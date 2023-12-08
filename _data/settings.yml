@@ -7,13 +7,14 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'About',   url: 'about.html'}
-- {name: 'Changelog', url: 'writing.html'}
+- {name: 'About',url: 'about.html'}
+- {name: 'News', url: 'news.html'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github',     link: 'https://www.github.com/bitporters'}
+- {icon: 'discord',    link: 'https://discord.com/channels/394045688335302656/1161381129211875530'}
 - {icon: 'twitter',    link: 'https://twitter.com/_WOLFPACKED'}
 - {icon: 'envelope',   link: 'mailto:service@bitporters.net'}
 - {icon: 'rss-square', link: '/feed.xml'}

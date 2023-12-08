@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Welcome to the ZTA CLASSIC Dev Blog
+title: About Raid Fortnov
 permalink: /about
 ---
 
-ZTA CLASSIC is an Android Zombie Survival Game.
+Raid Fortnov is a UEFN Action RPG Game currently in development.
  
-### Download Now
+### Play Now
 
-Get the game now [Get it on Google Play](https://play.google.com/store/apps/details?id=com.BPLTD.ZTACLASSIC) 
+Watch here for island code.
