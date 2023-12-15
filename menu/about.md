@@ -6,7 +6,7 @@ permalink: /about
 
 Raid Fortnov is a UEFN Action RPG Game currently in development.
  
-<img src="img/raid_fortnov.png" class="img-responsive img-centered" alt="Raid Fortnov Main Art">
+{% include image.html url="img/raid_fortnov.png" class="img-responsive img-centered" alt="Raid Fortnov Main Art" %}
 
 ## Gameplay
 
