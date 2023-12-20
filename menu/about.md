@@ -16,4 +16,4 @@ Maybe you break the law, but crime never pays.  Maybe you go beyond the law and 
 
 ### Play Now
 
-Watch here for island code.
+<a href="https://www.fortnite.com/@bitporters/5508-7032-6548">Play Now</a>
